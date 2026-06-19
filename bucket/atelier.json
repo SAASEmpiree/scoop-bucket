@@ -1,13 +1,13 @@
 {
-  "version": "0.3.0",
-  "description": "Boîte à outils de fichiers 100 % locale (compression, conversion, PDF, audio, métadonnées).",
+  "version": "0.3.1",
+  "description": "Boîte à outils de fichiers locale (compression, conversion, PDF, audio, métadonnées).",
   "homepage": "https://github.com/SAASEmpiree/atelier-fichiers",
   "license": "MIT",
   "notes": "L'app n'est pas encore signée : si Windows SmartScreen bloque au 1er lancement, « Informations complémentaires » → « Exécuter quand même ». ffmpeg et LibreOffice (facultatifs) activent les outils audio/vidéo et la conversion de documents.",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/SAASEmpiree/atelier-fichiers/releases/download/v0.3.0/Atelier_0.3.0_x64-setup.exe#/dl.7z",
-      "hash": "fe61334a6e783c8e0faa3c961ad42b51b00dafc9567cc1fe49352a99a55dbcea"
+      "url": "https://github.com/SAASEmpiree/atelier-fichiers/releases/download/v0.3.1/Atelier_0.3.1_x64-setup.exe#/dl.7z",
+      "hash": "d446855de5d6e9abc1f57a3b416fc91955fa5085d0a41a4eff2b7f72d245f239"
     }
   },
   "bin": "atelier.exe",
