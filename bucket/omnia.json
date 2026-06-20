@@ -7,7 +7,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/SAASEmpiree/omnia/releases/download/v1.0.0/Omnia_1.0.0_x64-setup.exe#/dl.7z",
-      "hash": "3eb6617a57b6fb4dd1416a268c6a78721f6c6a77468fb9737e43be0b93f9dae7"
+      "hash": "4f5ee7b7cc5767d000ab2b1896c7a1d9947c142c47d20bf8b8fd88ae4bf87f80"
     }
   },
   "bin": "Omnia.exe",
